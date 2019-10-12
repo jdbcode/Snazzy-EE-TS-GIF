@@ -24,7 +24,6 @@ The app set described here makes the following snazzy GIF anywhere on Earth. No 
 
 <img src="https://github.com/jdbcode/Snazzy-EE-TS-GIF/raw/master/img/snazzy-ee-ts-media.png">
 
-
 **Big thanks to:**
 
 - Landsat
