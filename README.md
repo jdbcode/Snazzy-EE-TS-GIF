@@ -16,11 +16,13 @@ The app set described here makes the following snazzy GIF anywhere on Earth. No 
   - enter some info from previous app
   - download resulting GIF
 
-<img src="https://github.com/jdbcode/Snazzy-EE-TS-GIF/raw/master/img/snazzy-ee-ts-gif.png" border="1">
+<img src="https://github.com/jdbcode/Snazzy-EE-TS-GIF/raw/master/img/snazzy-ee-ts-gif.png">
 
 ### 3. Get on social media
   - upload the GIF
   - narrate it with a couple sentences
+
+<img src="https://github.com/jdbcode/Snazzy-EE-TS-GIF/raw/master/img/snazzy-ee-ts-media.png">
 
 
 **Big thanks to:**
