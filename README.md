@@ -1,7 +1,7 @@
 # Snazzy-EE-TS-GIF
 **It's important to demonstrate how Earth is changing.**
 
-The app set described here makes the following snazzy GIF anywhere on Earth. No coding required, just a browser and some mouse clicks. The goal is to make it easy for anyone to generate this animation and share how landscapes are changing on social media.
+The app set described here makes the following snazzy GIF anywhere on Earth. No coding required, just a browser and some mouse clicks. The goal is to make it easy for anyone to generate and share this kind of animation on social media.
 
 <img src="https://github.com/jdbcode/Snazzy-EE-TS-GIF/raw/master/img/snazzy-ee-ts.gif">
 
