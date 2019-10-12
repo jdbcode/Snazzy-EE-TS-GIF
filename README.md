@@ -5,20 +5,20 @@ The app set described here makes the following snazzy GIF anywhere on Earth. No 
 
 <img src="https://github.com/jdbcode/Snazzy-EE-TS-GIF/raw/master/img/snazzy-ee-ts.gif">
 
-### 1. Go to the [EE-TS-GIF app](https://emaprlab.users.earthengine.app/view/lt-gee-time-series-animator)
+## 1. Go to the [EE-TS-GIF app](https://emaprlab.users.earthengine.app/view/lt-gee-time-series-animator)
   - draw a rectangle anywhere on Earth
   - download resulting GIF
 
 <img src="https://github.com/jdbcode/Snazzy-EE-TS-GIF/raw/master/img/ee-ts-gif.png">
 
-### 2. Go to the [Snazzy-EE-TS app](https://jstnbraaten.shinyapps.io/snazzy-ee-ts-gif/)
+## 2. Go to the [Snazzy-EE-TS app](https://jstnbraaten.shinyapps.io/snazzy-ee-ts-gif/)
   - upload GIF from previous app
   - enter info from previous app
   - download resulting GIF
 
 <img src="https://github.com/jdbcode/Snazzy-EE-TS-GIF/raw/master/img/snazzy-ee-ts-gif.png">
 
-### 3. Get on social media
+## 3. Get on social media
   - upload GIF from previous app
   - narrate it with a couple sentences
 
