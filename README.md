@@ -7,6 +7,7 @@ The app set described here makes the following GIF anywhere on Earth. No coding 
 
 ## 1. Go to: [EE-TS-GIF app](https://emaprlab.users.earthengine.app/view/lt-gee-time-series-animator)
   - draw a rectangle anywhere on Earth
+  - record app info: start & end years, GIF center lat & lon, and width (km).
   - download resulting GIF
 
 <img src="https://github.com/jdbcode/Snazzy-EE-TS-GIF/raw/master/img/ee-ts-gif.png">
@@ -26,27 +27,14 @@ The app set described here makes the following GIF anywhere on Earth. No coding 
 
 **Big thanks to:**
 
-- Landsat
-- Google Earth Engine
-- Shinyapps.io
+All the developers and scientists who had a hand in the following technologies and libraries (and their dependencies)
+
+- Landsat (USGS & NASA)
+- Earth Engine (Google)
+- Shinyapps.io (RStudio)
 - R magick
 - R rnaturalearth
 - R shiny
 - R gifski
 - R rgeos
 - R shinycssloaders
-
-...and all the developers and scientists who had a hand in these technologies and their dependencies.
-
-
-
-
-
-
-
-
-
-
-
-
-
