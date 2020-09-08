@@ -5,23 +5,26 @@ The app set described here makes the following GIF anywhere on Earth. No coding 
 
 <img src="https://github.com/jdbcode/Snazzy-EE-TS-GIF/raw/master/img/snazzy-ee-ts.gif">
 
-## 1. Go to: [EE-TS-GIF app](https://emaprlab.users.earthengine.app/view/lt-gee-time-series-animator)
-  - draw a rectangle anywhere on Earth
-  - record app info: start & end years, GIF center lat & lon, and width (km).
-  - download resulting GIF
+## Step 1: Go to [EE-TS-GIF app](https://emaprlab.users.earthengine.app/view/lt-gee-time-series-animator)
+
+1. Draw a rectangle anywhere on Earth
+2. Record app info: start & end years, GIF center lat & lon, and width (km).
+3. Download resulting GIF
 
 <img src="https://github.com/jdbcode/Snazzy-EE-TS-GIF/raw/master/img/ee-ts-gif.png">
 
-## 2. Go to: [Snazzy-EE-TS-GIF app](https://jstnbraaten.shinyapps.io/snazzy-ee-ts-gif/)
-  - upload GIF from previous app
-  - enter info from previous app
-  - download resulting GIF
+## Step 2: Go to [Snazzy-EE-TS-GIF app](https://jstnbraaten.shinyapps.io/snazzy-ee-ts-gif/)
+
+1. Upload GIF from previous app
+2. Enter info from previous app
+3. Download resulting GIF
 
 <img src="https://github.com/jdbcode/Snazzy-EE-TS-GIF/raw/master/img/snazzy-ee-ts-gif.png">
 
-## 3. Get on social media
-  - upload GIF from previous app
-  - narrate it with a couple sentences
+## Step 3: Get on social media
+
+1. Upload GIF from previous app
+2. Narrate it with a couple sentences
 
 <img src="https://github.com/jdbcode/Snazzy-EE-TS-GIF/raw/master/img/snazzy-ee-ts-media.png">
 
